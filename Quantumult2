@@ -51,7 +51,8 @@ HOST-SUFFIX,apple.com,DIRECT
 // 此部分为最常访问但被 GFW 屏蔽的网站
 HOST-SUFFIX,2o7.net,PROXY
 HOST-SUFFIX,4sqi.net,PROXY
-HOST-SUFFIX,9to5mac.com,PROXY
+HOST-SUFFIX,9to5mac.com,PROX
+HOST-SUFFIX,cccat.co,PROXY
 HOST-SUFFIX,abpchina.org,PROXY
 HOST-SUFFIX,adblockplus.org,PROXY
 HOST-SUFFIX,adobe.com,PROXY
